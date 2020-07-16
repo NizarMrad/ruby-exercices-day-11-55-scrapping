@@ -35,6 +35,7 @@ def get_the_deputies_infos
       puts "Le député #{last_name} #{first_name} peut être contacté à l'email suivant: #{email}"
     end
 
+
   return deputes
 end
 
